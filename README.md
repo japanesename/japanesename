@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey there 👋
 
-<!--
-**japanesename/japanesename** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im japanesename, and i develop Discord bots<br>
+You can Dm me on discord<br>
+<a href="https://discord.bio/p/redshades">
+  <img align="left" alt="Discord profile" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+<a href="https://www.reddit.com/user/japanesename69">
+  <img align="left" alt="Reddit profile" width="21px" src="https://cdn.iconscout.com/icon/free/png-256/reddit-164-675841.png" />
+</a>
+<a href="https://discord.com/oauth2/authorize?client_id=723432722059624488&scope=bot&permissions=8">
+  <img align="left" alt="Discord Bot invite link" width="21px" src="https://cdn.discordapp.com/attachments/705136077282869308/740065191533871125/pp_2.png" />
+</a>
+<br>
+I am currently learning **javascript** <br>
+<img src="https://camo.githubusercontent.com/5cedcd4aca1cbeb22beb77528432529c7966aa58/687474703a2f2f33636f6e31342e62697a2f636f64652f5f646174612f6a732f696e74726f2f6a732d6c6f676f2e706e67" width="60" height="60">
 
-Here are some ideas to get you started:
+Join my Bot Discord Server<br>
+[![Discord](https://img.shields.io/discord/746068134577832007?label=Discord%20server&style=for-the-badge)](https://discord.gg/WH9Gg6q)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Japanesename's github stats](https://github-readme-stats.vercel.app/api?username=japanesename&show_icons=true&theme=radical)](https://github.com/japanesename/github-readme-stats)<br>
