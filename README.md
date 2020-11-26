@@ -8,8 +8,8 @@ You can Dm me on discord<br>
 <a href="https://www.reddit.com/user/japanesename69">
   <img align="left" alt="Reddit profile" width="21px" src="https://cdn.iconscout.com/icon/free/png-256/reddit-164-675841.png" />
 </a>
-<a href="https://discord.com/oauth2/authorize?client_id=723432722059624488&scope=bot&permissions=8">
-  <img align="left" alt="Discord Bot invite link" width="21px" src="https://cdn.discordapp.com/attachments/705136077282869308/740065191533871125/pp_2.png" />
+<a href="https://discord.com/api/oauth2/authorize?client_id=764759785114697748&permissions=470083798&scope=bot">
+  <img align="left" alt="Discord Bot invite link" width="21px" src="https://cdn.discordapp.com/attachments/740083471476850710/780834744883347476/arimo_logo.png" />
 </a>
 <br>
 I am currently learning **javascript** <br>
